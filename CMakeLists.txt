@@ -22,7 +22,7 @@ set(OPT_WARNINGS_AS_ERRORS_DEVELOPER_DEFAULT TRUE)
 
 # Set the project name to your project name, my project isn't very descriptive
 project(
-  myproject
+  cube-physics
   VERSION 0.0.1
   DESCRIPTION ""
   HOMEPAGE_URL "%%myurl%%"

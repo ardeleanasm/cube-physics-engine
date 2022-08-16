@@ -3,7 +3,7 @@
 set(src 
         main.cpp 
     )
-set(inc 
+set(inc
     )
 add_executable(intro ${src} ${inc})
 target_link_libraries(
