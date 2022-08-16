@@ -9,4 +9,5 @@ CMakeCache.txt
 conan*
 *.json
 tags
-
+out/*
+.vs/*
